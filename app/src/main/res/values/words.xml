@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="words">
+        <item>КАМПУТАР</item>
+        <item>ТЕЛЕФОН</item>
+        <item>СИСТЕМА</item>
+        <item>ЯБЛОКО</item>
+        <item>АНДРОИД</item>
+        <item>ИНТЕРНЕТ</item>
+    </string-array>
+</resources>
